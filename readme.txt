@@ -59,4 +59,3 @@ Check for Javascript errors or CSS overwrites.
 
 = 0.2.2 =
 *	Autohide animation
-
