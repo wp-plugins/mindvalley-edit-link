@@ -1,10 +1,10 @@
 === MindValley Edit Link ===
 Contributors: mindvalley
 Donate link: http://www.mindvalley.com/opensource
-Tags: include, post, pages, content
+Tags: edit link, always on top, edit
 Requires at least: 3.0.0
 Tested up to: 3.0.4
-Stable tag: 0.2.2
+Stable tag: 0.2.3
 
 Insert Admin Only Edit Link at the end for single posts & pages
 
@@ -59,4 +59,7 @@ Check for Javascript errors or CSS overwrites.
 
 = 0.2.2 =
 *	Autohide animation
+
+= 0.2.3 =
+*	WP tagging issue
 
