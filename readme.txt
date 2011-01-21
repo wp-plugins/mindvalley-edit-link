@@ -1,7 +1,7 @@
 === MindValley Edit Link ===
 Contributors: mindvalley
 Donate link: http://www.mindvalley.com/opensource
-Tags: include, post, pages, content
+Tags: edit link, always on top, edit
 Requires at least: 3.0.0
 Tested up to: 3.0.4
 Stable tag: 0.2.2
