@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: MindValley Insert Edit Link
+Plugin Name: Mindvalley Insert Edit Link
 Plugin URI: http://mindvalley.com
 Description: Insert Admin Only Edit Link at the end for single posts & pages
-Author: MindValley
-Version: 0.2.2
+Author: Mindvalley
+Version: 0.2.4
 */
 
 class MVInsertEditLink{
