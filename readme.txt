@@ -1,10 +1,10 @@
-=== MindValley Edit Link ===
+=== Mindvalley Edit Link ===
 Contributors: mindvalley
 Donate link: http://www.mindvalley.com/opensource
 Tags: edit link, always on top, edit
 Requires at least: 3.0.0
 Tested up to: 3.0.4
-Stable tag: 0.2.3
+Stable tag: 0.2.4
 
 Insert Admin Only Edit Link at the end for single posts & pages
 
@@ -47,19 +47,19 @@ Check for Javascript errors or CSS overwrites.
 
 == Changelog ==
 
-= 0.1 =
-*	Attach edit_post_link() at loop_end
+= 0.2.3 =
+*	WP tagging issue
+
+= 0.2.2 =
+*	Autohide animation
+
+= 0.2.1 =
+*	Style enhancement
 
 = 0.2 =
 *	Moved to wp_footer
 *	Showing only once per page
 
-= 0.2.1 =
-*	Style enhancement
-
-= 0.2.2 =
-*	Autohide animation
-
-= 0.2.3 =
-*	WP tagging issue
+= 0.1 =
+*	Attach edit_post_link() at loop_end
 
